@@ -1,0 +1,60 @@
+{
+    "title": "Sick pitts and filthy chicks",
+    "description": "IDK",
+    "referenceId": "TVP_LIVE:3740691",
+    "date_created": "1516670085",
+    "date_modified": "1516670085",
+    "tags": null,
+    "sourceId": "7",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "123419881",
+    "loginId": "1758397",
+    "entityType": "1",
+    "titleTextEncoded": "Sick-pitts-and-filthy-chicks",
+    "category": null,
+    "duration": 0,
+    "settings": {
+        "destinations": [
+            {
+                "ip": "35.167.114.246",
+                "port": "1935",
+                "url": "rtmp:\/\/35.167.114.246:1935\/test-2c9adbe7cd8f8cc1132708538c17dc5c\/1"
+            },
+            {
+                "ip": "52.34.16.20",
+                "port": "1935",
+                "url": "rtmp:\/\/52.34.16.20:1935\/test-2c9adbe7cd8f8cc1132708538c17dc5c\/2"
+            }
+        ],
+        "provider": "TVP_LIVE",
+        "providerId": "3740691",
+        "environment": "test",
+        "liveId": "2c9adbe7cd8f8cc1132708538c17dc5c",
+        "live_status": "LIVE_STARTING",
+        "live_quality": "1080",
+        "quality": ""
+    },
+    "asset": {
+        "type": "mp4",
+        "type_stream": "live",
+        "sources": [],
+        "hlsUrl": "https:\/\/8343f7014c0ea438.mediapackage.us-west-2.amazonaws.com\/out\/v1\/7ba4362accc5458eb772fb2253d3925b\/index.m3u8",
+        "dashUrl": "https:\/\/8343f7014c0ea438.mediapackage.us-west-2.amazonaws.com\/out\/v1\/234c090ed7634fb7a94e468e9d8c32a2\/index.mpd",
+        "live_status": "LIVE_STARTING",
+        "live_quality": "1080",
+        "status_url": "\/api\/videos\/live\/status\/1758397\/123419881"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "31"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 10.56342
+}
